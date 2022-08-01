@@ -5,7 +5,7 @@
 - At least 2 fields in each table
 - All tables must be populated with at least 3 rows of data
 - More than 1-character, meaningful database, and table names
-- Database must be between at least 2 tables
+- Database must be relational between at least 2 tables
 - An export of your database in a final .sql file as a final project
 - Published to GitHub
 
